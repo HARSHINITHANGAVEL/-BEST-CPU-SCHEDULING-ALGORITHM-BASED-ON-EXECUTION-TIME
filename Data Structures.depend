@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1655902441 source:d:\sem 2\data str\package\data structures\definition.cpp
+	<iostream>
+	<iomanip>
+	"queue.h"
+
+1655904834 d:\sem 2\data str\package\data structures\queue.h
+	<iostream>
+
+1655960174 source:d:\sem 2\data str\package\data structures\main.cpp
+	<iostream>
+	"queue.h"
+	"linkedlist.h"
+
+1655901107 source:d:\sem 2\data str\package\data structures\definition1.cpp
+	<iostream>
+	<iomanip>
+	"linklist.h"
+
+1655900921 d:\sem 2\data str\package\data structures\linklist.h
+
+1655960174 source:d:\sem 2\data str\package\data structures\definitions.cpp
+	<iostream>
+	<iomanip>
+	"linkedlist.h"
+
+1655960174 d:\sem 2\data str\package\data structures\linkedlist.h
+
